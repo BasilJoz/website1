@@ -1,0 +1,18 @@
+
+body{
+    background-image: url('../images/pexels-photo-1097456.webp' );
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+ *{
+    box-sizing: border-box;
+    
+} 
+
+p {
+    color: white;
+    font-size: large;
+}
+
+
+    
